@@ -65,7 +65,7 @@ Library: C:\Users\Alan\Friendship On Top\Temp\BurstOutput\Data\Plugins\x86_64\li
 --assembly-defines=System.Xml;
 --assembly-defines=System;
 --assembly-defines=mscorlib;
---linker-options=PdbAltPath="Friendscape_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Friendship On Top_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Alan\Friendship On Top\Temp\Burst
 --debug=Full
@@ -142,7 +142,7 @@ Library: C:\Users\Alan\Friendship On Top\Temp\BurstOutput\Data\Plugins\x86_64\li
 --assembly-defines=System.Xml;
 --assembly-defines=System;
 --assembly-defines=mscorlib;
---linker-options=PdbAltPath="Friendscape_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Friendship On Top_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Alan\Friendship On Top\Temp\Burst
 --debug=Full
@@ -217,7 +217,7 @@ Library: C:\Users\Alan\Friendship On Top\Temp\BurstOutput\Data\Plugins\x86_64\li
 --assembly-defines=System.Xml;
 --assembly-defines=System;
 --assembly-defines=mscorlib;
---linker-options=PdbAltPath="Friendscape_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Friendship On Top_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Alan\Friendship On Top\Temp\Burst
 --debug=Full
@@ -326,7 +326,7 @@ Library: C:\Users\Alan\Friendship On Top\Temp\BurstOutput\Data\Plugins\x86_64\li
 --assembly-defines=System.Xml;
 --assembly-defines=System;
 --assembly-defines=mscorlib;
---linker-options=PdbAltPath="Friendscape_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Friendship On Top_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Alan\Friendship On Top\Temp\Burst
 --debug=Full
